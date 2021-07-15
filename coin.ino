@@ -2,11 +2,9 @@ int sensor = 2;
 int led = 3;
 boolean isCounter = false;
 int coin = 0;
-int count = 0;
 
 void doCounter() { 
   isCounter = true;
-  count++;
 }
 
 void setup() {
