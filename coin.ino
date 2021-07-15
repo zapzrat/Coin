@@ -7,7 +7,7 @@ int count = 0;
 
 
 
-void doCounter() { // เมื่อเซ็นเซอร์ตรวจจับวัตถุ
+void doCounter() { 
   isCounter = true;
   count++;
 
